@@ -1,0 +1,4 @@
+name: frontend-api
+dependencies:
+  - products
+  - users
