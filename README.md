@@ -4,7 +4,8 @@ Install below in computer:
 - pyenv
 - nvm
 - nodejs
-- jq
+- jq  
+
 At the root directory level, run below to setup the deployment environment:
 ```
 make setup
