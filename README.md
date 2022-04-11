@@ -23,7 +23,7 @@ Default output format [None]: json
 ## Build & Deploy Stack to AWS CloudFormation
 ### Steps
 1. Define environment in the environment variable
-2. Go the component foler (eg. users)
+2. Go the component folder (eg. users)
 3. Build the component
 3. Package and upload the artifacts to AWS S3
 4. Deploy the stack in AWS CloudFormation
@@ -34,7 +34,7 @@ $ make build
 $ make package
 $ make deploy
 ```
-To clean created resrouces and delete the stack in CloudFormation,
+To clean created resources and delete the stack in CloudFormation
 ```
 $ make clean
 ```
